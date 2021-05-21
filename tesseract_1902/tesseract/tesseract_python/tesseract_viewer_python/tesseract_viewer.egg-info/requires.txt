@@ -1,0 +1,2 @@
+numpy
+tesseract_python

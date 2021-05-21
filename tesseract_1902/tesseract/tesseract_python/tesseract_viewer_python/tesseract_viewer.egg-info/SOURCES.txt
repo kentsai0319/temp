@@ -1,0 +1,12 @@
+tesseract_viewer/__init__.py
+tesseract_viewer/tesseract_env_to_babylon_json.py
+tesseract_viewer/tesseract_viewer.py
+tesseract_viewer.egg-info/PKG-INFO
+tesseract_viewer.egg-info/SOURCES.txt
+tesseract_viewer.egg-info/dependency_links.txt
+tesseract_viewer.egg-info/requires.txt
+tesseract_viewer.egg-info/top_level.txt
+tesseract_viewer/resources/__init__.py
+tesseract_viewer/resources/geometries.json
+tesseract_viewer/resources/static/index.html
+tesseract_viewer/resources/static/tesseract_viewer.js
